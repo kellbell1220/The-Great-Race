@@ -26,7 +26,7 @@ Manipulating attributes of HTML elements using JavaScript
 JavaScript variables
 JavaScript selection control structures
 
-![alt](text starting line.JPG) 
+![alt](text startingLine.JPG) 
 ![alt](text midRace.JPG) 
 ![alt](text winner.JPG) 
 
