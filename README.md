@@ -1,5 +1,5 @@
 # The-Great-Race
-Web Dev 2 Mid-Term Project
+## Web Dev 2 Mid-Term Project
 
 Assignment Details:
 
@@ -25,3 +25,9 @@ Creating/managing timers and intervals
 Manipulating attributes of HTML elements using JavaScript
 JavaScript variables
 JavaScript selection control structures
+
+![alt](text starting line.JPG) 
+![alt](text midRace.JPG) 
+![alt](text winner.JPG) 
+
+
